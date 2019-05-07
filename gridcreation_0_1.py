@@ -10,7 +10,6 @@ class grid:
         self.root.title('gridcreation')
 
         self.coordrost = [[i for i in range(self.numberx*x,self.numberx+self.numberx*x)] for x in range(numbery)]
-        print(self.coordrost)
         for i in range(10000):
             self.varlist.append(IntVar())
             #self.boxlist.append(Checkbutton(self.root, text=f'{self.uncoords(i)} ({i})', variable=self.varlist[i]))
