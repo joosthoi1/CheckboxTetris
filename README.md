@@ -9,5 +9,5 @@ q: rotate left
 e: rotate right  
 space: put block in hold  
 # modules required:  
-(pip install module)
+(pip install module)  
 keyboard
