@@ -1,6 +1,7 @@
 # CheckboxTetris  
 heh  
 controls:  
+for wasd arrow keys work too  
 a: move left  
 d: move right  
 s: move down faster  
